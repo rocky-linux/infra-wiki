@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: REPLACEME Wiki
-site_url: https://REPLACEME.rocky.page
+site_name: Infrastructure Wiki
+site_url: https://infra.rocky.page
 site_description: >-
-  REPLACEME
+  Infrastructure Wiki and Documentation
 
 # Repository
-repo_url: https://git.resf.org/REPLACEME/wiki
-repo_name: REPLACEME/wiki
+repo_url: https://git.resf.org/infrastructure/wiki
+repo_name: infrastructure/wiki
 edit_uri: _edit/main/docs/
 
 # Copyright
@@ -58,6 +58,8 @@ plugins:
   - git-revision-date-localized:
       type: date
   - search
+  - macros:
+      include_dir: docs/include
 
 # Extensions
 markdown_extensions:

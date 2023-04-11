@@ -1,0 +1,5 @@
+---
+nav:
+  - ... | index.md
+  - 'SOP: Personal Data Request - Deletion': 'idm_sop_gdpr.md'
+  - 'SOP: Mattermost and RAS Group Sync': 'idm_sop_mm_ras.md'
