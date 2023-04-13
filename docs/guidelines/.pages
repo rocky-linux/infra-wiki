@@ -1,0 +1,5 @@
+---
+nav:
+  - ... | index.md
+  - 'AWX / Ansible SCM Guidelines': 'awx_scm_guidelines.md'
+...
