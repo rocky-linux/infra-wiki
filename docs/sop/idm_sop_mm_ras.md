@@ -31,3 +31,5 @@ This section covers how a system administrator will create a group Rocky Account
 ## Syncing in Mattermost
 
 Within mattermost's administration console, apply the group to the channel as necessary.
+
+{% include "resources_bottom.md" %}

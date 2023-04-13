@@ -42,3 +42,5 @@ interests, the public interest, and the interest of the open source community.
 Thank you, please let us know if you have any further questions.
 ```
 4. Set ticket to `RESOLVED`
+
+{% include "resources_bottom.md" %}
